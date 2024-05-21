@@ -8,8 +8,4 @@ website folder is zipped, had issue uploading original file
 - time-line graph interactivity: click on any circles representing the number of mosques destroyed and it'll give accurate information of the dates.
 
 
-- CHATGPT is USED
--- for copywriting the more information section, example: could you make this more clear: {text}.
--- to write down data-set, for example my data object was written by AI, I put in a csv with the data and it gave me this. 
--- idea generation, example: asking 'I want to add interactivity to my line-scatter graph, can you give me some ideas?'"
--- Grammar checking Documentation Page. 
+- CHATGPT is USED. 1.for copywriting the 'more information section', example: could you make this more clear: {text}. 2.to write down data-set, for example my data object was written by AI, I put in a csv with the data and it gave me this. 3.idea generation, example: asking 'I want to add interactivity to my line-scatter graph, can you give me some ideas?". 3. Grammar checking Documentation Page. 
