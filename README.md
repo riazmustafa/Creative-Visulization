@@ -12,3 +12,4 @@ website folder is zipped, had issue uploading original file
 -- for copywriting the more information section, example: could you make this more clear: {text}.
 -- to write down data-set, for example my data object was written by AI, I put in a csv with the data and it gave me this. 
 -- idea generation, example: asking 'I want to add interactivity to my line-scatter graph, can you give me some ideas?'"
+-- Grammar checking Documentation Page. 
