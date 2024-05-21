@@ -1,5 +1,6 @@
 # Creative-Visulization
-Year 2 Block 2, Stella
+website folder is zipped, had issue uploading original file
+
 - There is no interactivity when you start the project, it needs to play first then you will see a timeline at the bottom
 - click any date, it'll replay that weeks representation on screen,
 - the + button on the time-line can be clicked to show more information, this is where the graph is shown and information about that time-frame. 
